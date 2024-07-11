@@ -7,3 +7,5 @@ function randomNumber() {
     return number + ' sayısı tek sayıdır. Bekarlar kazandı.';
   }
 }
+
+//Cift mi Tek mi rastgele sayiyi isaretle.
